@@ -50,3 +50,8 @@ function sum2(array,tar){
 }
 const array = [2,6,5,8,11]
 sum2(array,14);
+
+const array2 = [2,6,5,8,11]
+sum2(array2,14);
+
+
